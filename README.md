@@ -8,7 +8,7 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 27 anos, quando comecei a trabalhar com marketing digital e tinha desafios com alguns sites de alguns clientes. Depois de muita pesquisa eu consegui, finalmente, colocá-los a funcionar, é neste momento que eu tive uma sensação mágica, que me lembro até ao dia de hoje. Eu apercebi-me que podia ajudar os clientes, apenas a escrever linhas de código e isso me fascinava-me profundamente. Desde então, decidi que eu queria fazer isto da minha vida, eu queria ser programador.
-- 🚀 &nbsp; Atualmente, estou a tirar um curso de back-end numa escola e também de forma didática a vertente mais full-stack.
+- 🚀 &nbsp; Atualmente, estou a tirar um curso de back-end numa escola e também de forma didática a vertente mais front-end.
 - 🏎 &nbsp; Sou apaixonado por Mergulho. É o que eu mais gosto de fazer para me divertir e libertar a cabeça haha!
 - 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
 
