@@ -10,7 +10,7 @@
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código quando comecei a trabalhar com marketing digital e tinha desafios com alguns sites de clientes. Depois de muita pesquisa, consegui finalmente descobrir onde estaria o problema e colocá-los a funcionar, é neste momento que tenho uma sensação mágica, que me lembro até ao dia de hoje. Então apercebi-me que podia ser programador. Desde então, decidi que tinha que estudar mais sobre a área para poder fazer disto a minha profissão.
 - 🚀 &nbsp; Atualmente, estou a tirar um curso de back-end no IEFP e também de forma didática estudo a vertente mais front-end.
 - 🏎 &nbsp; Sou apaixonado por Mergulho, e tenho como hobby também o ginásio e o Padel.
-- 💵 &nbsp; Também gosto muito de investimentos.
+- 💵 &nbsp; Também gosto investimentos.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
