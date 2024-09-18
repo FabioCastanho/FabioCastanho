@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, sou o Fábio Castanho, um FullStack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, sou o Fábio Castanho, um programador apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/fabio-castanho-dev"><img src="https://img.shields.io/badge/-Fábio%20%20Castanho-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:fabiocastanho12@gmail.com"><img src="https://img.shields.io/badge/-fabiocastanho12@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
